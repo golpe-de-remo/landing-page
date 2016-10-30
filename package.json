@@ -1,8 +1,10 @@
 {
   "dependencies": {
+    "axios": "^0.9.1",
+    "bootstrap": "^3.3.7",
+    "bootstrap-material-design": "^0.5.10",
     "react": "^15.0.1",
-    "react-dom": "^15.0.1",
-    "axios": "^0.9.1"
+    "react-dom": "^15.0.1"
   },
   "devDependencies": {
     "react-addons-test-utils": "^15.0.1",
